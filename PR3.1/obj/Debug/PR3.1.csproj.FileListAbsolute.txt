@@ -1,0 +1,7 @@
+C:\Users\improtagon1st\source\repos\PR3.1\PR3.1\bin\Debug\PR3.1.exe.config
+C:\Users\improtagon1st\source\repos\PR3.1\PR3.1\bin\Debug\PR3.1.exe
+C:\Users\improtagon1st\source\repos\PR3.1\PR3.1\bin\Debug\PR3.1.pdb
+C:\Users\improtagon1st\source\repos\PR3.1\PR3.1\obj\Debug\PR3.1.csproj.AssemblyReference.cache
+C:\Users\improtagon1st\source\repos\PR3.1\PR3.1\obj\Debug\PR3.1.csproj.CoreCompileInputs.cache
+C:\Users\improtagon1st\source\repos\PR3.1\PR3.1\obj\Debug\PR3.1.exe
+C:\Users\improtagon1st\source\repos\PR3.1\PR3.1\obj\Debug\PR3.1.pdb
