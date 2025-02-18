@@ -7,8 +7,7 @@
 
 ### Способы отладки:
 - 
-
-
+[Ссылка на код](https://github.com/improtagon1st/PR3_522/blob/task_1/PR3.1/Program.cs)
 ---
 
 ## Задание 2 «Галактики»
